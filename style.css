@@ -1,0 +1,45 @@
+
+body{
+    background: tan;
+}
+.card {
+    width: 200px;
+    background: ivory;
+    margin:  48px auto;
+    padding: 8px;
+}
+
+ul li{
+    font-size: 16px;
+}
+
+.title {
+    border-radius: 48px;
+    width: 400px;
+    margin: auto;
+    padding: 8px;
+    background: wheat;
+    font-size: 48px;
+    text-align: center;
+    border: 1px solid black;
+
+}
+
+/*   Grilled Salmon   */
+
+img {
+    display: block;
+    border: 1px solid black;
+    border-radius: 48px;
+    margin: auto;
+
+}
+
+.text{
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 48px;
+    padding: 12px;
+    width: 800px;
+    background-color: wheat;
+}
